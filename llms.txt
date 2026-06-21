@@ -1,4 +1,4 @@
-# Abrazo bajo la lluvia
+# Abrazo bajo la lluvia, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Abrazo bajo la lluvia |
+| **Title** | Abrazo bajo la lluvia, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Abrazo bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
+| **Get License** | [Request Licensing for Abrazo bajo la lluvia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3962)
 
 ---
 
