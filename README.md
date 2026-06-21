@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Abrazo bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
+| **Get License** | [Official Music Licensing for Abrazo bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Under the rain, I find your name
+> A silent flame that calls my claim
+> Your eyes ignite the midnight game
+> Abrazo bajo la lluvia, nothing's the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
