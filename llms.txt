@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Abrazo bajo la lluvia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
+| **Get License** | [Get License For Abrazo bajo la lluvia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
